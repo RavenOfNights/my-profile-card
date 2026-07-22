@@ -9,7 +9,7 @@ export default function About() {
           name="Alex"
           title="Computer Science Student"
           desc="Learning React and Next.js!"
-          imageSrc="/moe.png"
+          imageSrc="/alex1.png"
         />
         <QuoteCard />
       </div>
